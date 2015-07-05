@@ -1,0 +1,3 @@
+#!/ststem/bin/sh
+
+su -c 'busybox ln -sf /system/third-app /system/app'
